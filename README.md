@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me, reach me here.
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: coding is boring.
+- ⚡ Fun fact: coding is fun.
 
 <!---
 Ap-codees/Ap-codees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
